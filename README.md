@@ -7,7 +7,7 @@
   E já gostei de você me visitando 😄
 Em transição de carreira, me encontrei em programação, atualmente estudante de Desenvolvimento Web pela trybe, e curso Ciência da computação. Amo café, gatinhos e doguinhos, e sou apaixonada por leitura, e meus livros favoritos são: Série Happy Potter, série Trono de vidro, e uma autora preferida é Collen Hoover. Aqui no GitHub você encontrará meus projetos pessoais, sinta-se em casa devs 👯 
 
-### Abaixo minhas redes sociais para que me conheça melhor:
+## Contate-me:
 <div>
 <a href="https://instagram.com/livrosdajeni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato.comercialjenifer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
