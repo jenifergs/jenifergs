@@ -4,8 +4,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergs&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jenifergs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  E já gostei de você me visitando 😄
-Em transição de carreira, me encontrei em programação, atualmente estudante de Desenvolvimento Web pela trybe, e curso Ciência da computação. Amo café, gatinhos e doguinhos, e sou apaixonada por leitura, e meus livros favoritos são: Série Happy Potter, série Trono de vidro, e uma autora preferida é Collen Hoover. Aqui no GitHub você encontrará meus projetos pessoais, sinta-se em casa devs 👯 
 
 ## Contate-me:
 <div>
