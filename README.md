@@ -1,7 +1,7 @@
-### Hello, Devs!!
-🌱 Atualmente estou aprendendo React
-😄 Pronomes: ela/dela
-⚡ Curiosidade: Amo ler ❤️
+### Hello, Devs e devas!!
+##🌱 Atualmente estou aprendendo React
+##😄 Pronomes: ela/dela
+##⚡ Curiosidade: Amo ler ❤️
 
 
 🔭 Algumas habilidades:
