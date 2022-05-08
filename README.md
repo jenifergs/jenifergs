@@ -1,15 +1,11 @@
 ### Hello, Devs e devas!!
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+
+- 🌱 Atualmente estou aprendendo JavaScript e C
+- 😄 Pronomes: Ela/Dela
+- ⚡ Curiosidade: Amo ler fantasias, romances e minha autora preferida é collen Hoover ❤️
 
 
-🔭 Algumas habilidades:
+- 🔭 Algumas habilidades estão neste gráfico:
 <div>
 <a href="https://github.com/jenifergs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergs&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,7 +13,7 @@
 </div>
 <div>
   
-### 📫 Como entrar em contato comigo:
+- 📫 Como entrar em contato comigo
   
 <a href="https://instagram.com/livrosdajeni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato.comercialjenifer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
