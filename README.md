@@ -8,7 +8,7 @@
 - 🔭 Algumas habilidades estão neste gráfico:
 <div>
 <a href="https://github.com/jenifergs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergs&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jenifergs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div>
