@@ -6,7 +6,7 @@
 
 
 - 🔭 Algumas habilidades:
-LINGUAGENS EM GERAL
+###LINGUAGENS EM GERAL
 -JavaScript (ES6)
 -Html
 -Css
