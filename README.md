@@ -7,24 +7,24 @@
 
 - 🔭 Algumas habilidades:
 
-### LINGUAGENS EM GERAL
+###### LINGUAGENS EM GERAL
 -JavaScript (ES6)
 -Html
 -Css
 
-##### BIBLIOTECAS/FRAMEWORKS
--ReactJS
--Redux
--Reacting Testing Library
--Jest
--Tailwind
+###### BIBLIOTECAS/FRAMEWORKS
+- ReactJS
+- Redux
+- Reacting Testing Library
+- Jest
+- Tailwind
 
-### VERSIONAMENTO DE CÓDIGO
--Git / Github
+###### VERSIONAMENTO DE CÓDIGO
+- Git / Github
 
-### SISTEMA OPERACIONAL
--Windows
--Linux
+###### SISTEMA OPERACIONAL
+- Windows
+- Linux
 <div>
 <a href="https://github.com/jenifergs">
 <img height="180em" width='500em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergs&layout=compact&langs_count=7&theme=dracula"/>
