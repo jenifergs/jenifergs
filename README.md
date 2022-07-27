@@ -6,22 +6,23 @@
 
 
 - 🔭 Algumas habilidades:
-###LINGUAGENS EM GERAL
+
+### LINGUAGENS EM GERAL
 -JavaScript (ES6)
 -Html
 -Css
 
-BIBLIOTECAS/FRAMEWORKS
+### BIBLIOTECAS/FRAMEWORKS
 -ReactJS
 -Redux
 -Reacting Testing Library
 -Jest
 -Tailwind
 
-VERSIONAMENTO DE CÓDIGO
+### VERSIONAMENTO DE CÓDIGO
 -Git / Github
 
-SISTEMA OPERACIONAL
+### SISTEMA OPERACIONAL
 -Windows
 -Linux
 <div>
