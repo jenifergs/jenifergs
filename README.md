@@ -12,7 +12,7 @@
 -Html
 -Css
 
-# BIBLIOTECAS/FRAMEWORKS
+##### BIBLIOTECAS/FRAMEWORKS
 -ReactJS
 -Redux
 -Reacting Testing Library
