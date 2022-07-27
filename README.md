@@ -8,9 +8,9 @@
 - 🔭 Algumas habilidades:
 
 ###### LINGUAGENS EM GERAL
--JavaScript (ES6)
--Html
--Css
+- JavaScript (ES6)
+- Html
+- Css
 
 ###### BIBLIOTECAS/FRAMEWORKS
 - ReactJS
