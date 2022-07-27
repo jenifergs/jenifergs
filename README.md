@@ -18,7 +18,11 @@
 - Reacting Testing Library
 - Jest
 - Tailwind
-
+<div>
+<a href="https://github.com/jenifergs">
+<img height="180em" width='500em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width='500em' src="https://github-readme-stats.vercel.app/api?username=jenifergs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <div>
   
 ### 📫 Como entrar em contato comigo
