@@ -1,8 +1,8 @@
 ### Hello Devs!!
 
-- 🌱 Atualmente estou aprendendo JavaScript e C
+- 🌱 Experiência em javaScript e estudando a linguagem C
 - 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Amo ler fantasias, romances e minha autora preferida é collen Hoover ❤️
+- ⚡ Curiosidade: Amo ler fantasias, romances e minha autora preferida é collen Hoover, e sou nordestina ❤️
 
 
 - 🔭 Algumas habilidades:
