@@ -1,4 +1,4 @@
-### Hello, Devs e devas!!
+### Hello Devs!!
 
 - 🌱 Atualmente estou aprendendo JavaScript e C
 - 😄 Pronomes: Ela/Dela
