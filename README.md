@@ -1,6 +1,6 @@
 ### Hello Devs!!
 
-- 🌱 Experiência em javaScript e estudando a linguagem C
+- 🌱 Experiência em javaScript, React e Nodejs
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidade: Amo ler fantasias, romances e minha autora preferida é collen Hoover, e sou nordestina ❤️
 
