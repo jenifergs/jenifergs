@@ -6,7 +6,7 @@ I'm Jenifer Gonçalves, Full-Stack Developer living in Bahia, Brasil.
 
 🌱 Very interested in design patterns and architecture styles.
 
-📫 You can find me here contato.comercialjenifer@gmail.com or Linkedin.
+📫 You can find me here:
 
 <a href="https://instagram.com/livrosdajeni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato.comercialjenifer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
