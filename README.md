@@ -1,10 +1,8 @@
 ### Hi!!
 
-I'm Jenifer Gonçalves, Full-Stack Developer living in Bahia, Brasil.
+I'm Jenifer Gonçalves, Back-End Developer living in Bahia, Brasil.
 
 🔭 Developing software applications with Node.js, TypeScript, MySQL, React.
-
-🌱 Very interested in design patterns and architecture styles.
 
 📫 You can find me here:
 
