@@ -12,7 +12,7 @@ I'm Jenifer Gonçalves, Back-End Developer living in Bahia, Brasil.
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jenifergs&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jenifergs&&style=flat-square" />
 </div>
 
 
