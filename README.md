@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi!!
 
 I'm Jenifer Gonçalves, Back-End Developer living in Bahia, Brasil.
@@ -42,7 +43,8 @@ I'm Jenifer Gonçalves, Back-End Developer living in Bahia, Brasil.
  <img align="center" alt="sequelize" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
              
 </div>
-  
+</div>
+
 
 
 
