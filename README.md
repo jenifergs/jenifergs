@@ -18,7 +18,6 @@ I'm Jenifer Gonçalves, Back-End Developer living in Bahia, Brasil.
 </div>
 
 
-- 🔭 Skills:
 <div align="center">
   <a href="https://github.com/jenifergs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jenifergs&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
