@@ -4,7 +4,7 @@
 
 I'm Jenifer Gonçalves, Back-End Developer living in Bahia, Brasil.
 
-🔭 Developing software applications with Node.js, TypeScript, MySQL, React.
+ Developing software applications with Node.js, TypeScript, MySQL, React.
   
 📫 You can find me here:
 
